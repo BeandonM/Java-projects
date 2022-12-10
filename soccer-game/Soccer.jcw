@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Soccer</label>
+	</settings>
+	<users>
+		<user>
+			<path>Soccer.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Soccer.jcp</path>
+		</project>
+	</projects>
+</workspace>
